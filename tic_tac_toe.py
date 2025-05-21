@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Tic Tac Toe.ipynb
-Tic Tac Toe (井字棋) - 互動式按鈕版
+Tic Tac Toe (井字格) - 互動式按鈕版
 請在 Jupyter Notebook 或 Google Colab 執行
 需要安裝 ipywidgets
 !pip install ipywidgets
